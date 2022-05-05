@@ -1,0 +1,10 @@
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice608\bin\Debug\Exercice608.exe.config
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice608\bin\Debug\Exercice608.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice608\bin\Debug\Exercice608.pdb
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice608\obj\Debug\Exercice608.csproj.AssemblyReference.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice608\obj\Debug\Exercice608.BReadList.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice608\obj\Debug\Exercice608.Properties.Resources.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice608\obj\Debug\Exercice608.csproj.GenerateResource.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice608\obj\Debug\Exercice608.csproj.CoreCompileInputs.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice608\obj\Debug\Exercice608.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice608\obj\Debug\Exercice608.pdb

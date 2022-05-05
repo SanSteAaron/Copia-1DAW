@@ -1,0 +1,10 @@
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio209\Ejercicio209\bin\Debug\Ejercicio209.exe.config
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio209\Ejercicio209\bin\Debug\Ejercicio209.exe
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio209\Ejercicio209\bin\Debug\Ejercicio209.pdb
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio209\Ejercicio209\obj\Debug\Ejercicio209.csprojAssemblyReference.cache
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio209\Ejercicio209\obj\Debug\Ejercicio209.Form1.resources
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio209\Ejercicio209\obj\Debug\Ejercicio209.Properties.Resources.resources
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio209\Ejercicio209\obj\Debug\Ejercicio209.csproj.GenerateResource.cache
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio209\Ejercicio209\obj\Debug\Ejercicio209.csproj.CoreCompileInputs.cache
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio209\Ejercicio209\obj\Debug\Ejercicio209.exe
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio209\Ejercicio209\obj\Debug\Ejercicio209.pdb

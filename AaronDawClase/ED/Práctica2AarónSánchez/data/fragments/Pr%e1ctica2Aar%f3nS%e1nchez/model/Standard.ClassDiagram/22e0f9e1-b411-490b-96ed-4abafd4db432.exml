@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Facturas" version="4">
+  <OBJECT>
+    <ID name="Facturas" mc="Standard.ClassDiagram" uid="22e0f9e1-b411-490b-96ed-4abafd4db432"/>
+    <PID name="práctica2aarónsánchez" mc="Standard.Package" uid="eb6854bf-fce4-4831-9508-18458833f94b"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">699</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Facturas]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Módulo_de_Factura" mc="Standard.Class" uid="6dbe737d-c4dd-465f-8935-35acb89441f4"/>
+        <REFOBJ>
+          <ID name="Cabecera_de_factura" mc="Standard.Enumeration" uid="c14fd94b-1227-45c5-9eca-2312518b5c61"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Número_Identificativo" mc="Standard.Attribute" uid="23c29a11-4a9a-4dd1-94de-aff0ffd58bde"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Nombre_Cliente" mc="Standard.Attribute" uid="426416f1-7209-4755-b9df-e44de95cb485"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Fecha_de_la_venta" mc="Standard.Attribute" uid="60b991c5-a760-4a1c-bfd2-4b547ad5defb"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Importe_total" mc="Standard.Attribute" uid="fceafa16-3ace-4ddc-b072-d980356f2d2a"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Forma_Pago" mc="Standard.Attribute" uid="2e9f8856-f5e1-4f35-9d05-fd5df43556fc"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Delegación_Venta" mc="Standard.Attribute" uid="2df9545e-76b9-4c97-a1bf-86f7c3b7f521"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Código_Empleado" mc="Standard.Attribute" uid="edde73af-7fdc-4064-9080-111a6868c5f8"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Forma_de_pago" mc="Standard.Enumeration" uid="ba4b1900-9212-4e41-a926-a6f750c9c27d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Contado" mc="Standard.EnumerationLiteral" uid="a664105c-07a1-49fd-9b4f-1a37b9db4fe2"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Transferencia" mc="Standard.EnumerationLiteral" uid="ce2d7a21-1a52-4899-a615-6ae6c0c970b4"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Cheque_Bancario" mc="Standard.EnumerationLiteral" uid="4037e87e-2294-430f-b824-a6e7e31a4039"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Detalle_de_factura" mc="Standard.Enumeration" uid="e689abcd-c781-49c2-a274-36d647af6f0f"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Código_del_artículo" mc="Standard.Attribute" uid="97e23982-349a-4605-ac87-4441805b0b68"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Descripción_del_artículo" mc="Standard.Attribute" uid="ff4843b8-0527-4cde-83d1-f53fd5c41f7d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Importe_del_artículo" mc="Standard.Attribute" uid="12a8a01c-7236-4880-bc96-54aaffb171ab"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Cantidad" mc="Standard.Attribute" uid="676f3e98-3116-4648-9a68-728c4f83b066"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Dto_aplicado" mc="Standard.Attribute" uid="863d75cd-846b-4ff4-9018-4ed110d02905"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Cabecera_de_factura" mc="Standard.Attribute" uid="cb27736e-5b3a-43cb-b83d-6386a3319ff4"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Detalle_de_factura" mc="Standard.Attribute" uid="61a20fe0-cd3b-47d8-887b-cc644db69a84"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Crear_factura" mc="Standard.Operation" uid="20f3a9b5-a880-4405-998b-53935aa63e6f"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Eliminar_factura" mc="Standard.Operation" uid="17708ab8-1249-4b74-975e-da954a44c652"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Modificar_factura" mc="Standard.Operation" uid="ad5a3403-2a7d-4a88-bee6-712889b6d525"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Localizar_facturas_asociadas_a_un_cliente" mc="Standard.Operation" uid="f089794b-2402-47ee-be9e-9fae9cbf2d2b"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Localizar_facturas_que_incluyen_un_artículo_concreto" mc="Standard.Operation" uid="7c986193-af05-4a21-9a70-280de6b6cd9d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Localizar_facturas_entre_unos_importes_de_venta_concretos" mc="Standard.Operation" uid="5d22fa3c-7714-4b4e-8664-79c504de9a8c"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Añadir_detalle_de_factura" mc="Standard.Operation" uid="8a5f3007-40b7-43aa-a310-ee7721e0b772"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Eliminar_detalle_de_factura" mc="Standard.Operation" uid="4e06d591-45c2-49f7-af0b-aa12f812a7bc"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="74407feb-cd09-411b-a87f-0761211b320d"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="módulo_de_facturación" mc="Standard.AssociationEnd" uid="a2368b74-e1d8-4f77-8eb5-89853e5da1cf"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="módulo_de_facturación" mc="Standard.AssociationEnd" uid="4ebb881d-4034-49d2-946f-d1e979983992"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="dfff379a-1c5c-4ffe-8404-279bca6e0664"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="600b7f86-8bdc-4dee-99dc-17a9131f5f01"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,13 @@
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio706\Ejercicio706\obj\Debug\Ejercicio706.csproj.AssemblyReference.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio706\Ejercicio706\obj\Debug\Ejercicio706.FGestionAlumnos.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio706\Ejercicio706\obj\Debug\Ejercicio706.FGestionCursos.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio706\Ejercicio706\obj\Debug\Ejercicio706.FGestionProfesores.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio706\Ejercicio706\obj\Debug\Ejercicio706.FGestionDelInstituto.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio706\Ejercicio706\obj\Debug\Ejercicio706.Properties.Resources.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio706\Ejercicio706\obj\Debug\Ejercicio706.csproj.GenerateResource.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio706\Ejercicio706\obj\Debug\Ejercicio706.csproj.CoreCompileInputs.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio706\Ejercicio706\bin\Debug\Ejercicio706.exe.config
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio706\Ejercicio706\bin\Debug\Ejercicio706.exe
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio706\Ejercicio706\bin\Debug\Ejercicio706.pdb
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio706\Ejercicio706\obj\Debug\Ejercicio706.exe
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio706\Ejercicio706\obj\Debug\Ejercicio706.pdb

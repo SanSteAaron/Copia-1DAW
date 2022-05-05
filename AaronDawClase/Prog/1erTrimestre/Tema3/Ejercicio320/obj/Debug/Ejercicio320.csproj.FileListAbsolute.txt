@@ -1,0 +1,10 @@
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio320\bin\Debug\Ejercicio320.exe.config
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio320\bin\Debug\Ejercicio320.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio320\bin\Debug\Ejercicio320.pdb
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio320\obj\Debug\Ejercicio320.csprojAssemblyReference.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio320\obj\Debug\Ejercicio320.Form1.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio320\obj\Debug\Ejercicio320.Properties.Resources.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio320\obj\Debug\Ejercicio320.csproj.GenerateResource.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio320\obj\Debug\Ejercicio320.csproj.CoreCompileInputs.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio320\obj\Debug\Ejercicio320.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio320\obj\Debug\Ejercicio320.pdb

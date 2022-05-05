@@ -1,0 +1,10 @@
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio205\Ejercicio205\bin\Debug\Ejercicio205.exe.config
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio205\Ejercicio205\bin\Debug\Ejercicio205.exe
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio205\Ejercicio205\bin\Debug\Ejercicio205.pdb
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio205\Ejercicio205\obj\Debug\Ejercicio205.csprojAssemblyReference.cache
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio205\Ejercicio205\obj\Debug\Ejercicio205.Ejercicio205.resources
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio205\Ejercicio205\obj\Debug\Ejercicio205.Properties.Resources.resources
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio205\Ejercicio205\obj\Debug\Ejercicio205.csproj.GenerateResource.cache
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio205\Ejercicio205\obj\Debug\Ejercicio205.csproj.CoreCompileInputs.cache
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio205\Ejercicio205\obj\Debug\Ejercicio205.exe
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio205\Ejercicio205\obj\Debug\Ejercicio205.pdb

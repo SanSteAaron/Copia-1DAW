@@ -1,0 +1,15 @@
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\bin\Debug\Ejercicio804.exe.config
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\bin\Debug\Ejercicio804.exe
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\bin\Debug\Ejercicio804.pdb
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\obj\Debug\Ejercicio804.csproj.AssemblyReference.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\obj\Debug\Ejercicio804.FCirculo.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\obj\Debug\Ejercicio804.FCuadrado.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\obj\Debug\Ejercicio804.FHexágono.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\obj\Debug\Ejercicio804.Form1.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\obj\Debug\Ejercicio804.FRectángulo.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\obj\Debug\Ejercicio804.FTriángulo.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\obj\Debug\Ejercicio804.Properties.Resources.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\obj\Debug\Ejercicio804.csproj.GenerateResource.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\obj\Debug\Ejercicio804.csproj.CoreCompileInputs.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\obj\Debug\Ejercicio804.exe
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio804\Ejercicio804\obj\Debug\Ejercicio804.pdb

@@ -1,0 +1,10 @@
+C:\Users\sanchez22014\source\repos\Ejercicio312\bin\Debug\Ejercicio312.exe.config
+C:\Users\sanchez22014\source\repos\Ejercicio312\bin\Debug\Ejercicio312.exe
+C:\Users\sanchez22014\source\repos\Ejercicio312\bin\Debug\Ejercicio312.pdb
+C:\Users\sanchez22014\source\repos\Ejercicio312\obj\Debug\Ejercicio312.csprojAssemblyReference.cache
+C:\Users\sanchez22014\source\repos\Ejercicio312\obj\Debug\Ejercicio312.Form1.resources
+C:\Users\sanchez22014\source\repos\Ejercicio312\obj\Debug\Ejercicio312.Properties.Resources.resources
+C:\Users\sanchez22014\source\repos\Ejercicio312\obj\Debug\Ejercicio312.csproj.GenerateResource.cache
+C:\Users\sanchez22014\source\repos\Ejercicio312\obj\Debug\Ejercicio312.csproj.CoreCompileInputs.cache
+C:\Users\sanchez22014\source\repos\Ejercicio312\obj\Debug\Ejercicio312.exe
+C:\Users\sanchez22014\source\repos\Ejercicio312\obj\Debug\Ejercicio312.pdb

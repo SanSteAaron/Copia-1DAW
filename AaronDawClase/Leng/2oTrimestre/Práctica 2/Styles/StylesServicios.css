@@ -1,0 +1,109 @@
+body{
+    background-image: url("../Images/Fondo.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+}
+.TítuloPrincipal{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 700%;
+    text-align: center;
+    font-weight: bold;
+}
+.Image{
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    width: 1%;
+}
+.BordeAzul{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+.CajaAzulMarino{
+    background-color: black;
+    padding-bottom:1%;
+    padding-top: 2%;
+    padding-left: 1%;
+}
+.boton{
+    font-weight: bold;
+    background-color: rgb(37, 37, 37);
+    text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    margin-left: 0.5%;
+    border-start-start-radius: 40%;
+}
+.botonlocal{
+    font-weight: bold;
+    background-color: grey;
+    text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    margin-left: 0.5%;
+}
+.CajaBlanca{
+    background-color: white;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+}
+.Principal{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.Lorem{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.CajaNaranja{
+    background-color: darkorange;
+    color: black;
+    text-decoration: underline;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 225%;
+}
+.BarraMedia{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-right: 3%;
+    margin-left: 3%;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color:  rgb(37, 37, 37);
+    color: rgb(37, 37, 37);
+    text-align: center;
+}
+.BotonMedio{
+    margin-right: 6%;
+    font-size: 125%;
+}
+.texto{
+    font-size: 125%;
+    text-align: justify;
+}
+.pie{
+    margin-top: 3%;
+    margin-bottom: 5%;
+    text-align: center;
+    font-weight: bold;
+}
+a:link{
+    text-decoration: none;
+    color: white;
+}
+a:visited{
+    color: white;
+}

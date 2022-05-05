@@ -1,0 +1,10 @@
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio301\Ejercicio301\bin\Debug\Ejercicio301.exe.config
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio301\Ejercicio301\bin\Debug\Ejercicio301.exe
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio301\Ejercicio301\bin\Debug\Ejercicio301.pdb
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio301\Ejercicio301\obj\Debug\Ejercicio301.csprojAssemblyReference.cache
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio301\Ejercicio301\obj\Debug\Ejercicio301.Ejerciocio301.resources
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio301\Ejercicio301\obj\Debug\Ejercicio301.Properties.Resources.resources
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio301\Ejercicio301\obj\Debug\Ejercicio301.csproj.GenerateResource.cache
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio301\Ejercicio301\obj\Debug\Ejercicio301.csproj.CoreCompileInputs.cache
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio301\Ejercicio301\obj\Debug\Ejercicio301.exe
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio301\Ejercicio301\obj\Debug\Ejercicio301.pdb

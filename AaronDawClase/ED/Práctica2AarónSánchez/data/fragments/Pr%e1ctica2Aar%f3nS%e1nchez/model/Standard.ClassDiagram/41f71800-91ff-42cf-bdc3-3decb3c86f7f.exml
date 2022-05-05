@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Clientes" version="4">
+  <OBJECT>
+    <ID name="Clientes" mc="Standard.ClassDiagram" uid="41f71800-91ff-42cf-bdc3-3decb3c86f7f"/>
+    <PID name="práctica2aarónsánchez" mc="Standard.Package" uid="eb6854bf-fce4-4831-9508-18458833f94b"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">200</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[Clientes]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Clientes" mc="Standard.Class" uid="3f91f3c2-1c9e-4ea2-b33e-7258eb38e158"/>
+        <REFOBJ>
+          <ID name="Provincia" mc="Standard.Attribute" uid="a48b6933-1915-4a45-8f4d-dd596edbe3d5"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Población" mc="Standard.Attribute" uid="5cc5cfab-1d6d-4daf-9285-9868201e69bd"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Teléfono" mc="Standard.Attribute" uid="75ace069-93ef-4224-babe-7e4282a76340"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Dirección" mc="Standard.Attribute" uid="dee2bc70-d6e9-4673-8832-17652b165174"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Código_cliente" mc="Standard.Attribute" uid="5b2bab15-65a8-4569-9062-702f7cbb69b2"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Forma_de_pago" mc="Standard.Attribute" uid="966a1d19-686c-4413-b4ba-a4145d5258f4"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Registrar" mc="Standard.Operation" uid="10a26617-8455-4c52-a5ee-daf383086c60"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Modificar_datos" mc="Standard.Operation" uid="e61ccf2c-9814-45b5-b40c-7a8096e1d898"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Localizar" mc="Standard.Operation" uid="eb625f30-f8aa-449c-a2dd-62855ef70ffd"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Dar_de_baja" mc="Standard.Operation" uid="740e5dc5-7e27-4197-a6f0-8831f6dadbc6"/>
+        </REFOBJ>
+        <ID name="Personas" mc="Standard.Class" uid="c4911f97-a9b9-4861-8c3f-48eb350b6b14"/>
+        <ID name="Empresas" mc="Standard.Class" uid="6669086f-1211-4054-aba3-eb25a8932d12"/>
+        <REFOBJ>
+          <ID name="Razón_social" mc="Standard.Attribute" uid="60b8027b-912c-4830-b93f-2a701469aa0e"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="CIF" mc="Standard.Attribute" uid="db3b4bdb-b8cd-4286-b2bd-4336f451ac56"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Nombre" mc="Standard.Attribute" uid="a06f541c-012a-427b-bde5-626717649dc4"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Apellidos" mc="Standard.Attribute" uid="0fc58a1f-1d79-44a6-bc31-227694e5d758"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Documento_de_identificación" mc="Standard.Attribute" uid="9e7a74a2-cd79-4e76-8dad-aadf02b9c258"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="76b2f394-4bde-4014-841b-6777bc4f22b1"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="b4045933-3c99-4e6a-a5e4-16b2885b2d5c"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="0a09395f-5ac3-4f24-a3d6-8e730fb1453b"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,10 @@
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Tema 3\Ejercicio324\bin\Debug\Ejercicio324.exe.config
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Tema 3\Ejercicio324\bin\Debug\Ejercicio324.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Tema 3\Ejercicio324\bin\Debug\Ejercicio324.pdb
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Tema 3\Ejercicio324\obj\Debug\Ejercicio324.csprojAssemblyReference.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Tema 3\Ejercicio324\obj\Debug\Ejercicio324.Form1.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Tema 3\Ejercicio324\obj\Debug\Ejercicio324.Properties.Resources.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Tema 3\Ejercicio324\obj\Debug\Ejercicio324.csproj.GenerateResource.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Tema 3\Ejercicio324\obj\Debug\Ejercicio324.csproj.CoreCompileInputs.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Tema 3\Ejercicio324\obj\Debug\Ejercicio324.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Tema 3\Ejercicio324\obj\Debug\Ejercicio324.pdb

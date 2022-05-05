@@ -1,0 +1,9 @@
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio303\Ejercicio303\bin\Debug\Ejercicio303.exe.config
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio303\Ejercicio303\bin\Debug\Ejercicio303.exe
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio303\Ejercicio303\bin\Debug\Ejercicio303.pdb
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio303\Ejercicio303\obj\Debug\Ejercicio303.Ejercicio303.resources
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio303\Ejercicio303\obj\Debug\Ejercicio303.Properties.Resources.resources
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio303\Ejercicio303\obj\Debug\Ejercicio303.csproj.GenerateResource.cache
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio303\Ejercicio303\obj\Debug\Ejercicio303.csproj.CoreCompileInputs.cache
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio303\Ejercicio303\obj\Debug\Ejercicio303.exe
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio303\Ejercicio303\obj\Debug\Ejercicio303.pdb

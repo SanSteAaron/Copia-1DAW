@@ -1,0 +1,76 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.TítuloPrincipal{
+    color: blue;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 350%;
+    margin-left: 2%;
+}
+.BordeAzul{
+    border-style: solid;
+    border-color: blue;
+    border-width: 1px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+.CajaAzulMarino{
+    background-color: rgb(10, 10, 95);
+    padding-bottom:1%;
+    padding-top: 2%;
+    padding-left: 1%;
+}
+.boton{
+    font-weight: bold;
+    background-color: rgb(41, 41, 112);
+    color: whitesmoke;
+    text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    margin-left: 0.5%;
+}
+.CajaBlanca{
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.Principal{
+    float: left;
+    margin-top: 1%;
+    width: 70%;
+}
+.Lorem{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.CajaNaranja{
+    background-color: darkorange;
+    color: rgb(10, 10, 95);
+    text-decoration: underline;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 225%;
+}
+.BarraMedia{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-right: 3%;
+    margin-left: 3%;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(170, 211, 238);
+    color: rgb(170, 211, 238);
+    text-align: center; 
+}
+.BotonMedio{
+    margin-right: 6%;
+    font-size: 125%;
+}

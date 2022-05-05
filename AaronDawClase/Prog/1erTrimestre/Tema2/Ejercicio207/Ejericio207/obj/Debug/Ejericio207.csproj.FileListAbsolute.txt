@@ -1,0 +1,10 @@
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejericio207\Ejericio207\bin\Debug\Ejericio207.exe.config
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejericio207\Ejericio207\bin\Debug\Ejericio207.exe
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejericio207\Ejericio207\bin\Debug\Ejericio207.pdb
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejericio207\Ejericio207\obj\Debug\Ejericio207.csprojAssemblyReference.cache
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejericio207\Ejericio207\obj\Debug\Ejericio207.Ejercicio207.resources
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejericio207\Ejericio207\obj\Debug\Ejericio207.Properties.Resources.resources
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejericio207\Ejericio207\obj\Debug\Ejericio207.csproj.GenerateResource.cache
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejericio207\Ejericio207\obj\Debug\Ejericio207.csproj.CoreCompileInputs.cache
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejericio207\Ejericio207\obj\Debug\Ejericio207.exe
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejericio207\Ejericio207\obj\Debug\Ejericio207.pdb

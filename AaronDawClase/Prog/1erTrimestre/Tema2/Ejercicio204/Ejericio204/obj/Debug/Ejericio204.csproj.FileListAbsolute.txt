@@ -1,0 +1,10 @@
+E:\GS\Programación\Tema 2\Ejercicios\Ejericio204\Ejericio204\obj\Debug\Ejericio204.csprojAssemblyReference.cache
+E:\GS\Programación\Tema 2\Ejercicios\Ejericio204\Ejericio204\obj\Debug\Ejericio204.Ejercicio204.resources
+E:\GS\Programación\Tema 2\Ejercicios\Ejericio204\Ejericio204\obj\Debug\Ejericio204.Properties.Resources.resources
+E:\GS\Programación\Tema 2\Ejercicios\Ejericio204\Ejericio204\obj\Debug\Ejericio204.csproj.GenerateResource.cache
+E:\GS\Programación\Tema 2\Ejercicios\Ejericio204\Ejericio204\obj\Debug\Ejericio204.csproj.CoreCompileInputs.cache
+E:\GS\Programación\Tema 2\Ejercicios\Ejericio204\Ejericio204\bin\Debug\Ejericio204.exe.config
+E:\GS\Programación\Tema 2\Ejercicios\Ejericio204\Ejericio204\bin\Debug\Ejericio204.exe
+E:\GS\Programación\Tema 2\Ejercicios\Ejericio204\Ejericio204\bin\Debug\Ejericio204.pdb
+E:\GS\Programación\Tema 2\Ejercicios\Ejericio204\Ejericio204\obj\Debug\Ejericio204.exe
+E:\GS\Programación\Tema 2\Ejercicios\Ejericio204\Ejericio204\obj\Debug\Ejericio204.pdb

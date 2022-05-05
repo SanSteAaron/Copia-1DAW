@@ -1,0 +1,10 @@
+C:\Users\psanl\OneDrive\Escritorio\AaronDawClase\Prog\2oTrimestre\Ejercicio516\Ejercicio516\bin\Debug\Ejercicio516.exe.config
+C:\Users\psanl\OneDrive\Escritorio\AaronDawClase\Prog\2oTrimestre\Ejercicio516\Ejercicio516\bin\Debug\Ejercicio516.exe
+C:\Users\psanl\OneDrive\Escritorio\AaronDawClase\Prog\2oTrimestre\Ejercicio516\Ejercicio516\bin\Debug\Ejercicio516.pdb
+C:\Users\psanl\OneDrive\Escritorio\AaronDawClase\Prog\2oTrimestre\Ejercicio516\Ejercicio516\obj\Debug\Ejercicio516.csproj.AssemblyReference.cache
+C:\Users\psanl\OneDrive\Escritorio\AaronDawClase\Prog\2oTrimestre\Ejercicio516\Ejercicio516\obj\Debug\Ejercicio516.Form1.resources
+C:\Users\psanl\OneDrive\Escritorio\AaronDawClase\Prog\2oTrimestre\Ejercicio516\Ejercicio516\obj\Debug\Ejercicio516.Properties.Resources.resources
+C:\Users\psanl\OneDrive\Escritorio\AaronDawClase\Prog\2oTrimestre\Ejercicio516\Ejercicio516\obj\Debug\Ejercicio516.csproj.GenerateResource.cache
+C:\Users\psanl\OneDrive\Escritorio\AaronDawClase\Prog\2oTrimestre\Ejercicio516\Ejercicio516\obj\Debug\Ejercicio516.csproj.CoreCompileInputs.cache
+C:\Users\psanl\OneDrive\Escritorio\AaronDawClase\Prog\2oTrimestre\Ejercicio516\Ejercicio516\obj\Debug\Ejercicio516.exe
+C:\Users\psanl\OneDrive\Escritorio\AaronDawClase\Prog\2oTrimestre\Ejercicio516\Ejercicio516\obj\Debug\Ejercicio516.pdb

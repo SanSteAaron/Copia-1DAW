@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Exercici4.3Aaron</title>
+<meta charset="utf-8" />
+</head>
+<body>
+<h1>Encuesta al profesorado</h1>
+<p>
+<b>por favor, si es usted docente responda a las cuestiones:</b>
+</p>
+<form action="tuteimaginas23@gmail.com" enctype="application/x-www-form-urlencoded” method="post">
+<fieldset width="300">
+<legend>1. Informaci&oacuten personal</legend>
+Apellidos y nombre: <input type="text" name="nombre" size="40">
+<br/>
+Sexo:
+<input type="radio" name="genero" value="m"> hombre
+<input type="radio" name="genero" value="f"> mujer
+<br/>
+Tel&eacutefono: <input type="text" name="phone">
+E-mail: <input type="text" name="correo">
+</fieldset>
+<br/>
+<fieldset width="300">
+<legend>2. Datos profesionales </legend>
+Centro de trabajo: <input type="text" name="work">
+Localidad: <input type="text" name="localidad">
+<br/>
+Especialidad:
+<br/>
+<select id="especialidad" multiple size="4">
+<option value="LyL">Lengua y literatura </option>
+<option value="M">Matem&aacuteticas</option>
+<option value="GH">Geograf&iacutea e hist&oacuteria</option>
+<option value="Inf">Inform&aacutetica</option>
+<option value="I">Ingl&eacutes</option>
+<option value="F">F&iacutesica</option>
+</select>
+</fieldset>
+<fieldset width="300">
+<legend>3. Por favor, facilitanos la siguiente informaci&oacuten:</legend>
+&iquestC&oacutemo lleg&oacute hasta aqu&iacute?:
+<select id="llegada">
+<option value="Gg">Google</option>
+<option value="Yh">Yahoo</option>
+</select>
+<p>
+Comentarios:
+<br/>
+<textarea name="comenta" rows="4" cols="50"></textarea>
+</p>
+&iquestDesear&iacutea recibir m&aacutes informaci&oacuten sobre...?
+<br/>
+<input type="checkbox" name="MA" value="ma"> Material audiovisual
+<br/>
+<input type="checkbox" name="TE" value="te"> Textos electr&oacutenicos
+<br/>
+<input type="checkbox" name="LT" value="lt"> Libros de texto
+</fieldset>
+<hr>
+<p align="center">
+<input type="submit" value="enviar datos">
+<input type="reset" value="borrar datos">
+</p>
+</form>
+</body>
+</html>

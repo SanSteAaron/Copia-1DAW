@@ -1,0 +1,10 @@
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio208\Ejercicio208\bin\Debug\Ejercicio208.exe.config
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio208\Ejercicio208\bin\Debug\Ejercicio208.exe
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio208\Ejercicio208\bin\Debug\Ejercicio208.pdb
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio208\Ejercicio208\obj\Debug\Ejercicio208.csprojAssemblyReference.cache
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio208\Ejercicio208\obj\Debug\Ejercicio208.Ejercicio208.resources
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio208\Ejercicio208\obj\Debug\Ejercicio208.Properties.Resources.resources
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio208\Ejercicio208\obj\Debug\Ejercicio208.csproj.GenerateResource.cache
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio208\Ejercicio208\obj\Debug\Ejercicio208.csproj.CoreCompileInputs.cache
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio208\Ejercicio208\obj\Debug\Ejercicio208.exe
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio208\Ejercicio208\obj\Debug\Ejercicio208.pdb

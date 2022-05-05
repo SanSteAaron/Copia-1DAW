@@ -1,0 +1,10 @@
+E:\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice606\bin\Debug\Exercice606.exe.config
+E:\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice606\bin\Debug\Exercice606.exe
+E:\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice606\bin\Debug\Exercice606.pdb
+E:\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice606\obj\Debug\Exercice606.csproj.AssemblyReference.cache
+E:\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice606\obj\Debug\Exercice606.Form1.resources
+E:\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice606\obj\Debug\Exercice606.Properties.Resources.resources
+E:\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice606\obj\Debug\Exercice606.csproj.GenerateResource.cache
+E:\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice606\obj\Debug\Exercice606.csproj.CoreCompileInputs.cache
+E:\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice606\obj\Debug\Exercice606.exe
+E:\AaronDawClase\Prog\2oTrimestre\Tema 6\Exercice606\obj\Debug\Exercice606.pdb

@@ -1,0 +1,10 @@
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\EjercicioAmp1\bin\Debug\EjercicioAmp1.exe.config
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\EjercicioAmp1\bin\Debug\EjercicioAmp1.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\EjercicioAmp1\bin\Debug\EjercicioAmp1.pdb
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\EjercicioAmp1\obj\Debug\EjercicioAmp1.csprojAssemblyReference.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\EjercicioAmp1\obj\Debug\EjercicioAmp1.Form1.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\EjercicioAmp1\obj\Debug\EjercicioAmp1.Properties.Resources.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\EjercicioAmp1\obj\Debug\EjercicioAmp1.csproj.GenerateResource.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\EjercicioAmp1\obj\Debug\EjercicioAmp1.csproj.CoreCompileInputs.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\EjercicioAmp1\obj\Debug\EjercicioAmp1.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\EjercicioAmp1\obj\Debug\EjercicioAmp1.pdb

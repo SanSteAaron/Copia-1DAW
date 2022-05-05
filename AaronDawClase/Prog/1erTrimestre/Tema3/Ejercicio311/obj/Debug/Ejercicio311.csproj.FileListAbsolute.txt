@@ -1,0 +1,10 @@
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio311\obj\Debug\Ejercicio311.csprojAssemblyReference.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio311\obj\Debug\Ejercicio311.Form1.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio311\obj\Debug\Ejercicio311.Properties.Resources.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio311\obj\Debug\Ejercicio311.csproj.GenerateResource.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio311\obj\Debug\Ejercicio311.csproj.CoreCompileInputs.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio311\bin\Debug\Ejercicio311.exe.config
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio311\bin\Debug\Ejercicio311.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio311\bin\Debug\Ejercicio311.pdb
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio311\obj\Debug\Ejercicio311.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\Ejercicio311\obj\Debug\Ejercicio311.pdb

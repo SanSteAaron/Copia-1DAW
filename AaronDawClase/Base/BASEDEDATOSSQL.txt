@@ -1,0 +1,16 @@
+--CREATE DATABASE test1;
+USE test1;
+--DROP TABLE first_table;
+--CREATE TABLE first_table
+--(
+	--id INTEGER PRIMARY KEY,
+	--name TEXT,
+--);
+--INSERT INTO first_table(id,name)
+--VALUES (2,'Pedro');
+--SELECT * FROM first_table;
+--DELETE FROM first_table;
+--DELETE FROM first_table WHERE id=1;
+--UPDATE first_table 
+--SET name='Ana'
+--WHERE id=2;

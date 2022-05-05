@@ -1,0 +1,10 @@
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio214\Ejercicio214\bin\Debug\Ejercicio214.exe.config
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio214\Ejercicio214\bin\Debug\Ejercicio214.exe
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio214\Ejercicio214\bin\Debug\Ejercicio214.pdb
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio214\Ejercicio214\obj\Debug\Ejercicio214.csprojAssemblyReference.cache
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio214\Ejercicio214\obj\Debug\Ejercicio214.Ejercicio214.resources
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio214\Ejercicio214\obj\Debug\Ejercicio214.Properties.Resources.resources
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio214\Ejercicio214\obj\Debug\Ejercicio214.csproj.GenerateResource.cache
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio214\Ejercicio214\obj\Debug\Ejercicio214.csproj.CoreCompileInputs.cache
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio214\Ejercicio214\obj\Debug\Ejercicio214.exe
+E:\GS\Programación\Tema 2\Ejercicios\Ejercicio214\Ejercicio214\obj\Debug\Ejercicio214.pdb

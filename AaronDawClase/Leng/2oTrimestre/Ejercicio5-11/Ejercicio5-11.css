@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(36, 35, 35);
+    color:white;
+}
+h1::first-letter{
+    font-size: 25pt;
+}
+h1{
+    text-align: center;
+    color:rgb(106, 183, 255);
+}
+p::first-letter{
+    font-size: 18pt;
+}
+ul{
+    font-style: italic;
+    border-style: solid;
+    border-width: 1pt;
+}
+p{
+    color:rgb(197, 170, 112);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

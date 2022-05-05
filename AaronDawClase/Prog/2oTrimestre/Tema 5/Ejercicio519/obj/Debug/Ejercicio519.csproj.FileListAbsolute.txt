@@ -1,0 +1,10 @@
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio519\obj\Debug\Ejercicio519.csproj.AssemblyReference.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio519\obj\Debug\Ejercicio519.Form1.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio519\obj\Debug\Ejercicio519.Properties.Resources.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio519\obj\Debug\Ejercicio519.csproj.GenerateResource.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio519\obj\Debug\Ejercicio519.csproj.CoreCompileInputs.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio519\bin\Debug\Ejercicio519.exe.config
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio519\bin\Debug\Ejercicio519.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio519\bin\Debug\Ejercicio519.pdb
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio519\obj\Debug\Ejercicio519.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio519\obj\Debug\Ejercicio519.pdb

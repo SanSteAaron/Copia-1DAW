@@ -1,0 +1,12 @@
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio803\Ejercicio803\bin\Debug\Ejercicio803.exe.config
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio803\Ejercicio803\bin\Debug\Ejercicio803.exe
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio803\Ejercicio803\bin\Debug\Ejercicio803.pdb
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio803\Ejercicio803\obj\Debug\Ejercicio803.csproj.AssemblyReference.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio803\Ejercicio803\obj\Debug\Ejercicio803.FCirculo.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio803\Ejercicio803\obj\Debug\Ejercicio803.FCuadrado.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio803\Ejercicio803\obj\Debug\Ejercicio803.Form1.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio803\Ejercicio803\obj\Debug\Ejercicio803.Properties.Resources.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio803\Ejercicio803\obj\Debug\Ejercicio803.csproj.GenerateResource.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio803\Ejercicio803\obj\Debug\Ejercicio803.csproj.CoreCompileInputs.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio803\Ejercicio803\obj\Debug\Ejercicio803.exe
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio803\Ejercicio803\obj\Debug\Ejercicio803.pdb

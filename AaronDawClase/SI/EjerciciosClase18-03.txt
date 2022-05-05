@@ -1,0 +1,1 @@
+find /usr -name "*0" -type f -size +100M > resultados.txt 2> /dev/null ; shutdown -h

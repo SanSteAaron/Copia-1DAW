@@ -1,0 +1,10 @@
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\TEMA 2\Ejercicio203\bin\Debug\Ejercicio203.exe.config
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\TEMA 2\Ejercicio203\bin\Debug\Ejercicio203.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\TEMA 2\Ejercicio203\bin\Debug\Ejercicio203.pdb
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\TEMA 2\Ejercicio203\obj\Debug\Ejercicio204.csprojAssemblyReference.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\TEMA 2\Ejercicio203\obj\Debug\Ejercicio203.Ejercicio204.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\TEMA 2\Ejercicio203\obj\Debug\Ejercicio203.Properties.Resources.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\TEMA 2\Ejercicio203\obj\Debug\Ejercicio204.csproj.GenerateResource.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\TEMA 2\Ejercicio203\obj\Debug\Ejercicio204.csproj.CoreCompileInputs.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\TEMA 2\Ejercicio203\obj\Debug\Ejercicio203.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\TEMA 2\Ejercicio203\obj\Debug\Ejercicio203.pdb

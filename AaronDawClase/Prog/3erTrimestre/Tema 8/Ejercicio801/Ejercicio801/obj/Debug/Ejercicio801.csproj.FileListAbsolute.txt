@@ -1,0 +1,10 @@
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio801\Ejercicio801\bin\Debug\Ejercicio801.exe.config
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio801\Ejercicio801\bin\Debug\Ejercicio801.exe
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio801\Ejercicio801\bin\Debug\Ejercicio801.pdb
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio801\Ejercicio801\obj\Debug\Ejercicio801.csproj.AssemblyReference.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio801\Ejercicio801\obj\Debug\Ejercicio801.FCreadorFiguras.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio801\Ejercicio801\obj\Debug\Ejercicio801.Properties.Resources.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio801\Ejercicio801\obj\Debug\Ejercicio801.csproj.GenerateResource.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio801\Ejercicio801\obj\Debug\Ejercicio801.csproj.CoreCompileInputs.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio801\Ejercicio801\obj\Debug\Ejercicio801.exe
+D:\AaronDawClase\Prog\3erTrimestre\Tema 8\Ejercicio801\Ejercicio801\obj\Debug\Ejercicio801.pdb

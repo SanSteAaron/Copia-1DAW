@@ -1,0 +1,10 @@
+E:\AaronDawClase\Prog\Tema4\Ejercicio413\bin\Debug\Ejercicio413.exe.config
+E:\AaronDawClase\Prog\Tema4\Ejercicio413\bin\Debug\Ejercicio413.exe
+E:\AaronDawClase\Prog\Tema4\Ejercicio413\bin\Debug\Ejercicio413.pdb
+E:\AaronDawClase\Prog\Tema4\Ejercicio413\obj\Debug\Ejercicio413.csproj.AssemblyReference.cache
+E:\AaronDawClase\Prog\Tema4\Ejercicio413\obj\Debug\Ejercicio413.Form1.resources
+E:\AaronDawClase\Prog\Tema4\Ejercicio413\obj\Debug\Ejercicio413.Properties.Resources.resources
+E:\AaronDawClase\Prog\Tema4\Ejercicio413\obj\Debug\Ejercicio413.csproj.GenerateResource.cache
+E:\AaronDawClase\Prog\Tema4\Ejercicio413\obj\Debug\Ejercicio413.csproj.CoreCompileInputs.cache
+E:\AaronDawClase\Prog\Tema4\Ejercicio413\obj\Debug\Ejercicio413.exe
+E:\AaronDawClase\Prog\Tema4\Ejercicio413\obj\Debug\Ejercicio413.pdb

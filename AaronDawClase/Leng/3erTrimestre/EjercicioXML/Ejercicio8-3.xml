@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resultat tema="xml">
+    <album>
+        <nombre>Carrer Salut</nombre>
+        <autor>Compay Segundo</autor>
+        <fecha>Març de 1999</fecha>
+        <canción id="1">
+            <titulo>Salutació a Chango</titulo>
+            <genero>Són-afro</genero>
+            <autor>Armant Dulfo</autor>
+            <duracion>5’46’’</duracion>
+        </canción>
+        <canción id="2">
+            <titulo>Amor Gegant</titulo>
+            <genero>Bolero-són </genero>
+            <autor>Francisco Repilado</autor>
+            <duracion>2’52’’</duracion>
+        </canción>
+        <canción id="3">
+            <titulo>Rosa de França </titulo>
+            <genero>Bolero-són</genero>
+            <autor>Rodrigo Prats</autor>
+            <duracion>5’20’’</duracion>
+        </canción>
+        <canción id="4">
+            <titulo>María a la Platja</titulo>
+            <genero>Merenga</genero>
+            <autor>Francisco Repilado</autor>
+            <duracion>2’49’’</duracion>
+        </canción>
+        <canción id="5">
+            <titulo>Versos per a Tu</titulo>
+            <genero>Bolero-són</genero>
+            <autor>Francisco Repilado</autor>
+            <duracion>3’56’’</duracion>
+        </canción>
+        <canción id="6">
+            <titulo>La Engañadora</titulo>
+            <genero>Bolero-són</genero>
+            <autor>Enrique Jorrín</autor>
+            <duracion>4’20’’</duracion>
+        </canción>
+        <canción id="7">
+            <titulo>Vells sons de Santiago</titulo>
+            <genero>Són</genero>
+            <autor>Popular</autor>
+            <duracion>4’21’’</duracion>
+        </canción>
+        <canción id="8">
+            <titulo>El Dia que em Vulgues</titulo>
+            <genero>Bolero</genero>
+            <autor>Carlos Gardél</autor>
+            <duracion>4’03’’</duracion>
+        </canción>
+        <canción id="9">
+            <titulo>Es Va perdre la Flauta </titulo>
+            <genero>Saborós</genero>
+            <autor>Compay Segundo</autor>
+            <duracion>4’52’’</duracion>
+        </canción>
+        <canción id="10">
+            <titulo>Morir d'Amor</titulo>
+            <genero>Bolero</genero>
+            <autor>Xarres Aznavour</autor>
+            <duracion>3’29’’</duracion>
+        </canción>
+        <canción id="11">
+            <titulo>Llàgrimes Negres</titulo>
+            <genero>Són</genero>
+            <autor>Miguel Matamoros </autor>
+            <duracion>3’49’’</duracion>
+        </canción>
+        <canción id="12">
+            <titulo>Balcó de Santiago</titulo>
+            <genero>Són</genero>
+            <autor>Francisco Repilado</autor>
+            <duracion>5’40’’</duracion>
+        </canción>
+        <canción id="13">
+            <titulo>Chan Chan</titulo>
+            <genero>Són</genero>
+            <autor>Francisco Repilado</autor>
+            <duracion>5’30’’</duracion>
+        </canción>
+    </album>
+</resultat>

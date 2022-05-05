@@ -1,0 +1,10 @@
+E:\AaronDawClase\Prog\Tema3\Ejercicio325\bin\Debug\Ejercicio325.exe.config
+E:\AaronDawClase\Prog\Tema3\Ejercicio325\bin\Debug\Ejercicio325.exe
+E:\AaronDawClase\Prog\Tema3\Ejercicio325\bin\Debug\Ejercicio325.pdb
+E:\AaronDawClase\Prog\Tema3\Ejercicio325\obj\Debug\Ejercicio325.csprojAssemblyReference.cache
+E:\AaronDawClase\Prog\Tema3\Ejercicio325\obj\Debug\Ejercicio325.Form1.resources
+E:\AaronDawClase\Prog\Tema3\Ejercicio325\obj\Debug\Ejercicio325.Properties.Resources.resources
+E:\AaronDawClase\Prog\Tema3\Ejercicio325\obj\Debug\Ejercicio325.csproj.GenerateResource.cache
+E:\AaronDawClase\Prog\Tema3\Ejercicio325\obj\Debug\Ejercicio325.csproj.CoreCompileInputs.cache
+E:\AaronDawClase\Prog\Tema3\Ejercicio325\obj\Debug\Ejercicio325.exe
+E:\AaronDawClase\Prog\Tema3\Ejercicio325\obj\Debug\Ejercicio325.pdb

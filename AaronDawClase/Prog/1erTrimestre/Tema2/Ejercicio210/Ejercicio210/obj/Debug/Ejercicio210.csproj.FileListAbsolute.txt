@@ -1,0 +1,10 @@
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio210\Ejercicio210\bin\Debug\Ejercicio210.exe.config
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio210\Ejercicio210\bin\Debug\Ejercicio210.exe
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio210\Ejercicio210\bin\Debug\Ejercicio210.pdb
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio210\Ejercicio210\obj\Debug\Ejercicio210.csprojAssemblyReference.cache
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio210\Ejercicio210\obj\Debug\Ejercicio210.Form1.resources
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio210\Ejercicio210\obj\Debug\Ejercicio210.Properties.Resources.resources
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio210\Ejercicio210\obj\Debug\Ejercicio210.csproj.GenerateResource.cache
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio210\Ejercicio210\obj\Debug\Ejercicio210.csproj.CoreCompileInputs.cache
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio210\Ejercicio210\obj\Debug\Ejercicio210.exe
+C:\Users\reillo22008\Desktop\GS\GS\Programación\Tema 2\Ejercicios\Ejercicio210\Ejercicio210\obj\Debug\Ejercicio210.pdb

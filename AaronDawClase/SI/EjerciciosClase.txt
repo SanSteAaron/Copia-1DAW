@@ -1,0 +1,11 @@
+1.
+
+find /etc -name "*.mp3" -type f size +10M
+
+2.
+
+find /bin -iname "z*" -type d -empty
+
+3. 
+
+find /usr -type f -atime -7 -exec mv {} /home/pepe/basura \; 

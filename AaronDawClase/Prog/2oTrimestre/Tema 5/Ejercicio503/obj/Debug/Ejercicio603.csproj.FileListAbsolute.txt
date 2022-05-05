@@ -1,0 +1,9 @@
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio603\bin\Debug\Ejercicio603.exe.config
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio603\bin\Debug\Ejercicio603.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio603\bin\Debug\Ejercicio603.pdb
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio603\obj\Debug\Ejercicio603.Form1.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio603\obj\Debug\Ejercicio603.Properties.Resources.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio603\obj\Debug\Ejercicio603.csproj.GenerateResource.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio603\obj\Debug\Ejercicio603.csproj.CoreCompileInputs.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio603\obj\Debug\Ejercicio603.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio603\obj\Debug\Ejercicio603.pdb

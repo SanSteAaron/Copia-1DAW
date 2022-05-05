@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Inicio - Aaron</title>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" type="text/css" href="../Styles/EstilosEj0.css">
+    </head>
+    <body>
+        <div class="contenido">
+            <div>  
+                <span class="titulo">PÀGINA PRINCIPAL</span>
+                <span class="imagelogo"><img src="..\Images\LogoPage.png"/></span>
+            </div>
+            <div class ="enlacesext">
+                <span class="enlacesext2"><a href="./indice.html">Principal</a></span>
+                <span class="enlacesext2"><a href="./Ejercicio1.html">EJ 1</a></span>
+                <span class="enlacesext2"><a href="./Ejercicio2.html">EJ 2</a></span>
+                <span class="enlacesext2"><a href="./Ejercicio3.html">EJ 3</a></span>
+                <span class="enlacesext2"><a href="./Ejercicio4.html">EJ 4</a></span>
+            </div>
+            <div>
+                <span class="enlacesint">
+                    <ul>
+                        <li><a href="#principi">Principi</a></li></br>
+                        <li><a href="#modelocajas">Primer apartat</a></li></br>
+                        <li><a href="#pos">Segon apartat</a></li></br>
+                        <li><a href="#controlvisual">Tercer apartat</a></li></br>
+                        <li><a href="#estructura">Quart apartat</a></li></br>
+                        <li><a href="#bonespract">Quint apartat</a></li>
+                    </ul> 
+                </span>
+                <span class="resumen">
+                    <h3 class="tituloresumen" id="principi">TEMA 6 - FULLES D'ESTIL CSS</h3>
+                    <p id="modelocajas">6.1 MODEL DE CAIXES</p>
+                    <p> 
+                        El model de caixes és un model de format que es basa en el fet
+                        que cada element HTML produeix una caixa o zona rectangular al seu voltant.
+                    </br>
+                    </br>
+                        Així, cada caixa té un contingut que pot ser un text en el cas d'un paràgraf, una imatge, el contingut
+                        d'una cel·la, altres capes, etc. Al voltant del contingut, hi ha un espai de farciment (padding), que
+                        és un espai entre el contingut i la vora. La vora (border), que pot estar visible o no, correspon amb
+                        una línia que tanca completament el contingut i el seu farciment. I, finalment, el marge (margin),
+                        que és l'espai lliure existent entre la caixa i allò que li envolta, és a dir, les altres caixes adjacents.
+                    </br>
+                    </br>
+                        Definir l'estructura visual d'una pàgina Web és una tasca complexa, és necessari seguir una sèrie de
+                        passos. El primer pas és planificar l'estructura de la pàgina, per a això sol realitzar-se un esbós del
+                        resultat final que es pretén aconseguir. A partir de l'esbós, s'escriu el codi HTML de la pàgina,
+                        utilitzant etiquetes div per a dividir els elements de contingut en parts. El tercer pas, consisteix a
+                        afegir els continguts (informació i altres elements HTML) a cadascuna de les divisions. Finalment, es
+                        crea una fulla d'estil per a establir el posicionament cadascuna de les divisions i definir el format
+                        visual dels elements de la pàgina i poder aconseguir el resultat desitjat.
+                    </p>
+                    <p id="pos">6.2 POSICIONAMENT</p>
+                    <p>
+                        Les fulles d'estil CSS permeten utilitzar cinc mètodes diferents per a establir el posicionament d'una
+                        caixa en la finestra de visualització del navegador: estàtic, relatiu, absolut, fix i flotant. Les
+                        propietats d'estil que poden intervindre per a definir el posicionament d'elements són les
+                        següents: position, top, bottom, right, left, float i clear.
+                    </br>
+                    </br>
+                        Posicionament estàtic
+                    </br>
+                        És el valor per defecte establit per a establir el posicionament de tots els elements HTML en la
+                        pàgina. Els elements posicionats de manera estàtica apareixen en pantalla segons el flux normal de
+                        representació d'HTML i, per tant, no es veuen afectats per les propietats top, bottom, left i right.
+                    </br>
+                    </br>
+                        Posicionament relatiu
+                    </br>
+                        Consisteix a desplaçar la caixa un cert valor en píxels o en % respecte a la seua posició normal o
+                        estàtica.
+                        La posició relativa s'especifica mitjançant les coordenades (x,i)
+                    </br>
+                    </br>
+                        Posicionament absolut
+                    </br>
+                        La posició de la caixa vindrà donada per les coordenades que es definisquen. Així, la caixa no estarà
+                        dins del flux estàtic o normal del document, per la qual cosa es podrà solapar o superposar amb
+                        altres elements de la pàgina.
+                    </br>
+                    </br>
+                        Posicionament fixed
+                    </br>
+                        Implica un posicionament absolut, però mantenint la posició de la caixa fins i tot quan l'usuari
+                        desplaça la pàgina mitjançant les barres de desplaçament. D'aquesta manera, la caixa estarà
+                        sempre visible. Resulta útil per a encapçalats o peus de pàgines, així com per als índexs de les
+                        pàgines que es mantindran inalterables en un document extens.
+                    </br>
+                    </br>
+                        Posicionament flotant
+                    </br>
+                        El posicionament flotant és molt utilitzat en l'actualitat. Desplaça horitzontalment la caixa tot el
+                        que siga possible cap a l'esquerra o cap a la dreta dins contenidor en el qual es troba. La resta de
+                        les caixes ocupen el lloc deixat per la caixa flotant.
+                    </p>
+                    <p id="controlvisual">6.3 CONTROL DE LA VISUALITZACIÓ</p>
+                    <p>
+                            Les propietats de visualització permeten controlar la presentació de les caixes en la finestra del
+                            navegador. Aquestes propietats d'estil poden controlar efectes visuals com: la superposició, el
+                            desbordament, la retallada, la visibilitat i la visualització de les caixes.
+                    </br>
+                    </br>
+                            Superposició
+                    </br>
+                            En el cas que alguna caixa se superpose o solape amb una altra, es pot determinar quin estarà
+                            davant utilitzant la propietat z-index. El valor d'aquesta propietat pren un valor sencer per a cada
+                            caixa.
+                    </br>
+                    </br>
+                            Desbordament
+                    </br>
+                            La propietat overflow determina les accions que ha de fer el navegador quan un element és més
+                            gran que el seu contenidor. Ha de recordar-se que el contenidor d'un element és l'element pare
+                            que el conté
+                    </br>
+                    </br>
+                            Retallada
+                    </br>
+                            La propietat clip determina la part visible d'un element, generalment una imatge. De manera que la
+                            imatge sencera s'inclourà en el document, encara que només una part rectangular serà visible. Es
+                            recomane incloure l'element que es desitja retallar dins d'una etiqueta div. Aquesta propietat
+                            només funciona amb un posicionament absolut. Les coordenades del rectangle retallat venen
+                            donades per les cantonades superior-esquerra, superior-dreta, inferior-dreta i inferior-esquerra
+                            respecte de la imatge inicial.
+                    </br>    
+                    </br>
+                            Visibilitat
+                    </br>
+                            La propietat visibility determina si un element està visible o ocult. El valor visible mostra l'element,
+                            mentre que el valor hidden oculta l'element.
+                    </br>
+                    </br>
+                            Visualització
+                    </br>    
+                            La propietat d'estil més carautorística que pot aplicar-se per a controlar la visualització dels
+                            elements en la pàgina és la propietat display. Es tracta d'una propietat molt potent l'ús de la qual
+                            està àmpliament estés.Els valors més representatius de la propietat display són: none, inline, block, 
+                            run-in, listitem, inline-block, table, inline-table, table-row-group, table-row, table-column-group, 
+                            tablecolumn, table-cell i table-caption. Alguns d'aquests valors s'estudien a continuació.
+                    </p>
+                    <p id="estructura">6.4 ESTRUCTURA I LAYOUT</p>
+                    <p>
+                            S'utilitza el terme layout per a referir-se a la composició o estructura visual general d'una pàgina
+                            Web. La forma habitual de crear el layout d'una pàgina és utilitzant divisions, mitjançant l'ús de
+                            l'etiqueta div. L'acció de definir el layout d'una pàgina Web es coneix com a maquetació.
+                            Es poden classificar els dissenys del layout de les pàgines Web segons diversos criteris: el nombre
+                            de columnes, la posició dels elements de navegació, l'ample fix o variable dels elements, etc.
+                            S'utilitza el terme layout fluid o líquid (fluïu layout o liquid layout) per a referir-se a aquella mena
+                            de layout que utilitza un ample variable, mitjançant valors de percentatge, per a definir l'ample de
+                            les divisions que ho componen.
+                    </br>
+                    </br>
+                            Disseny fluid a dues i tres columnes amb capçalera i peu de pàgina
+                    </br>
+                            Per a obtindre un disseny de layout fluid a dues columnes amb capçalera i peu de pàgina, tal com
+                            es mostra següent figura, s'utilitza la propietat float. Aquesta propietat s'aplicarà als elements
+                            posicionats, com l'element menú i l'element contingut. A més, s'aplicarà la propietat clear a
+                            l'element peu, per a evitar els solapaments ocasionats pels elements posicionats amb float.
+                    </br>        
+                    </br>
+                            Disseny de layout amb taules
+                    </br>
+                            El disseny de layout de les pàgines Web també pot resoldre's mitjançant l'ús de taules, aplicant la
+                            propietat d'estil display als diversos elements que la componen.
+                            Tradicionalment, els documents en paper han utilitzat les denominades quadrícules de disseny per
+                            a situar amb harmonia els diferents blocs de lectura. Les quadrícules estan formades per un
+                            conjunt de files i columnes que permeten organitzar el contingut i millorar la comprensió del lector.
+                            El disseny del layout de pàgines Web amb la propietat d'estil display i els valors table, table-row i
+                            table-cell, proporciona molts avantatges.
+                    </p>
+                    <p id="bonespract">6.5 BONES PRÀCTIQUES</p>
+                    <p>
+                            Inicialitzar els valors de les propietats d'estil. Una fulla d'estil s'aplica a les pàgines Web a
+                            les quals s'ha associat
+                            Provar en els navegadors més utilitzats. Una pràctica imprescindible dels dissenyadors
+                            Web és provar el seu treball en diversos navegadors diferents.
+                    </br>
+                            Tècniques de depuració d'errors. Solen cometre's errors en escriure codi CSS per a
+                            especificar les declaracions d'estil. En primer lloc, quan no s'està segur sobre si totes les
+                            regles CSS estan ben escrites, el millor és comprovar sintàcticament la fulla d'estils
+                            utilitzant un validador de CSS, per exemple: http://jigsaw.w3.org/css-validator/. Una vegada
+                            descartats els errors de sintaxis, el següent problema és detectar per què una regla CSS no
+                            s'aplica correctament a un element.
+                    </br>
+                            Utilitzar el mètode de disseny de millora progressiva. La millora progressiva proposa que
+                            el disseny web es realitze en dos passos.
+                    </br>
+                            Tabular el codi. Aquesta tècnica d'escriptura de codi facilita significativament la seua
+                            lectura, per la qual cosa tabular el codi CCS que especifica les propietats i regles d'estil és
+                            una de les pràctiques recomanades pels dissenyadors Web professionals. 
+                    </br>
+                            Millora del rendiment. Diverses estratègies, que s'enumeren a continuació, són útils per a
+                            millorar el rendiment de l'aplicació de les fulles d'estil en cascada en les pàgines Web:
+                            enllaçar fulles d'estils externes en comptes d'incloure els estils en la pròpia pàgina, enllaçar
+                            les fulles d'estils mitjançant link en comptes de@ import, reduir el nombre d'arxius CSS
+                            externs de la pàgina i combinar, si és possible, tots els arxius CSS externs individuals en un
+                            únic arxiu.
+                    </p>    
+                </span>
+            </div>
+            <div class="pie">
+                    <p>Aarón Sánchez Stefanov</p>
+                    <p>Número de contacto: 123456789</p>
+                    <p>SánchezStefanov Empresas</p>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio602\bin\Debug\Ejercicio602.exe.config
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio602\bin\Debug\Ejercicio602.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio602\bin\Debug\Ejercicio602.pdb
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio602\obj\Debug\Ejercicio602.csproj.AssemblyReference.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio602\obj\Debug\Ejercicio602.Form1.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio602\obj\Debug\Ejercicio602.Properties.Resources.resources
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio602\obj\Debug\Ejercicio602.csproj.GenerateResource.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio602\obj\Debug\Ejercicio602.csproj.CoreCompileInputs.cache
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio602\obj\Debug\Ejercicio602.exe
+C:\Users\sanchez22014\Desktop\AaronDawClase\Prog\2oTrimestre\Ejercicio602\obj\Debug\Ejercicio602.pdb

@@ -1,0 +1,4 @@
+p:nth-child(odd){
+    color:blue;
+    font-size:7pt;
+}

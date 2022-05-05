@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resultat
+[
+    <!ELEMENT resultat (album+)>
+    <!ATTLIST resultat tema CDATA #REQUIRED>
+    <!ELEMENT album (nombre,autor,cancion+)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT autor (#PCDATA)>
+    <!ELEMENT cancion (titulo)>
+    <!ATTLIST cancion id CDATA #REQUIRED>
+    <!ELEMENT titulo (#PCDATA)>
+]>
+<resultat tema="xml">
+    <album>
+        <nombre>A HARD DAY'S NIGHT</nombre>
+        <autor>The Beatles</autor>
+        <cancion id="1">
+            <titulo>A Hard Day's Night</titulo>
+        </cancion>
+        <cancion id="2">
+            <titulo>I Should Have Known Better</titulo>
+        </cancion>
+        <cancion id="3">
+            <titulo>If I Fell</titulo>
+        </cancion>
+        <cancion id="4">
+            <titulo>I'm Happy Just to Dance With You</titulo>
+        </cancion>
+        <cancion id="5">
+            <titulo>And I Love Her</titulo>
+        </cancion>
+        <cancion id="6">
+            <titulo>Tell Me Why</titulo>
+        </cancion>
+        <cancion id="7">
+            <titulo>Can't Buy Me Love</titulo>
+        </cancion>
+        <cancion id="8">
+            <titulo>Any Time at All</titulo>
+        </cancion>
+        <cancion id="9">
+            <titulo>I'll Cry Instead</titulo>
+        </cancion>
+        <cancion id="10">
+            <titulo>Things We Said Today</titulo>
+        </cancion>
+        <cancion id="11">
+            <titulo>When I Get Home</titulo>
+        </cancion>
+        <cancion id="12">
+            <titulo>You Can't Do That</titulo>
+        </cancion>
+        <cancion id="13">
+            <titulo>I'll Be Back</titulo>
+        </cancion>
+    </album>
+    <album>
+        <nombre>ABBEY ROAD N</nombre>
+        <autor>The Beatles</autor>
+        <cancion id="1">
+            <titulo>COME TOGETHER</titulo>
+        </cancion>
+        <cancion id="2">
+            <titulo>SOMETHING</titulo>
+        </cancion>
+        <cancion id="3">
+            <titulo>MAXWELL'S SILVER HAMMER</titulo>
+        </cancion>
+        <cancion id="4">
+            <titulo>OH! DARLING</titulo>
+        </cancion>
+        <cancion id="5">
+            <titulo>OCTOPUS'S GARDEN</titulo>
+        </cancion>
+        <cancion id="6">
+            <titulo>I WANT YOU (She's So Heavy)</titulo>
+        </cancion>
+        <cancion id="7">
+            <titulo>HERE COMES THE SUN</titulo>
+        </cancion>
+        <cancion id="8">
+            <titulo>BECAUSE</titulo>
+        </cancion>
+        <cancion id="9">
+            <titulo>YOU NEVER GIVE ME YOUR MONEY</titulo>
+        </cancion>
+        <cancion id="10">
+            <titulo>SUN KING</titulo>
+        </cancion>
+        <cancion id="11">
+            <titulo>MEAN MR MUSTARD</titulo>
+        </cancion>
+        <cancion id="12">
+            <titulo>POLYTHENE PAM</titulo>
+        </cancion>
+        <cancion id="13">
+            <titulo>SHE CAME IN THROUGH THE BATHROOM WINDOW</titulo>
+        </cancion>
+        <cancion id="14">
+            <titulo>GOLDEN SLUMBERS</titulo>
+        </cancion>
+        <cancion id="15">
+            <titulo>CARRY THAT WEIGHT</titulo>
+        </cancion>
+        <cancion id="16">
+            <titulo>THE END</titulo>
+        </cancion>
+        <cancion id="17">
+            <titulo>HER MAJESTY</titulo>
+        </cancion>
+    </album>
+    <album>
+        <nombre>FLOWERS</nombre>
+        <autor>The Rolling Stones</autor>
+        <cancion id="1">
+            <titulo>RUBY TUESDAY</titulo>
+        </cancion>
+        <cancion id="2">
+            <titulo>HAVE YOU SEEN YOUR MOTHER, BABY, STANDING IN THE SHADOW?</titulo>
+        </cancion>
+        <cancion id="3">
+            <titulo>LET'S SPEND THE NIGHT TOGETHER</titulo>
+        </cancion>
+        <cancion id="4">
+            <titulo>LADY JANE</titulo>
+        </cancion>
+        <cancion id="5">
+            <titulo>OUT OF TIME</titulo>
+        </cancion>
+        <cancion id="6">
+            <titulo>MY GIRL</titulo>
+        </cancion>
+        <cancion id="7">
+            <titulo>BACK STREET GIRL</titulo>
+        </cancion>
+        <cancion id="8">
+            <titulo>PLEASE GO HOME</titulo>
+        </cancion>
+        <cancion id="9">
+            <titulo>MOTHER'S LITTLE HELPER</titulo>
+        </cancion>
+        <cancion id="10">
+            <titulo>TAKE IT OR LEAVE IT</titulo>
+        </cancion>
+        <cancion id="11">
+            <titulo>RIDE ON, BABY</titulo>
+        </cancion>
+        <cancion id="12">
+            <titulo>SITTIN' ON A FENCE</titulo>
+        </cancion>
+    </album>
+</resultat>

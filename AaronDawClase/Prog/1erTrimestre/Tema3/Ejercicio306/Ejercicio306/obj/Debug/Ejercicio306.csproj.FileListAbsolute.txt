@@ -1,0 +1,10 @@
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio306\Ejercicio306\bin\Debug\Ejercicio306.exe.config
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio306\Ejercicio306\bin\Debug\Ejercicio306.exe
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio306\Ejercicio306\bin\Debug\Ejercicio306.pdb
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio306\Ejercicio306\obj\Debug\Ejercicio306.csprojAssemblyReference.cache
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio306\Ejercicio306\obj\Debug\Ejercicio306.Ejercicio306.resources
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio306\Ejercicio306\obj\Debug\Ejercicio306.Properties.Resources.resources
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio306\Ejercicio306\obj\Debug\Ejercicio306.csproj.GenerateResource.cache
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio306\Ejercicio306\obj\Debug\Ejercicio306.csproj.CoreCompileInputs.cache
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio306\Ejercicio306\obj\Debug\Ejercicio306.exe
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio306\Ejercicio306\obj\Debug\Ejercicio306.pdb

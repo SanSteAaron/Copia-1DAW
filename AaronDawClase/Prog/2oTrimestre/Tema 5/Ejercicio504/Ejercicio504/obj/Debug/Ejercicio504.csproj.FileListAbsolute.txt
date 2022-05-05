@@ -1,0 +1,10 @@
+D:\AaronDawClase\Prog\2oTrimestre\Ejercicio504\Ejercicio504\bin\Debug\Ejercicio504.exe.config
+D:\AaronDawClase\Prog\2oTrimestre\Ejercicio504\Ejercicio504\bin\Debug\Ejercicio504.exe
+D:\AaronDawClase\Prog\2oTrimestre\Ejercicio504\Ejercicio504\bin\Debug\Ejercicio504.pdb
+D:\AaronDawClase\Prog\2oTrimestre\Ejercicio504\Ejercicio504\obj\Debug\Ejercicio504.csproj.AssemblyReference.cache
+D:\AaronDawClase\Prog\2oTrimestre\Ejercicio504\Ejercicio504\obj\Debug\Ejercicio504.Form1.resources
+D:\AaronDawClase\Prog\2oTrimestre\Ejercicio504\Ejercicio504\obj\Debug\Ejercicio504.Properties.Resources.resources
+D:\AaronDawClase\Prog\2oTrimestre\Ejercicio504\Ejercicio504\obj\Debug\Ejercicio504.csproj.GenerateResource.cache
+D:\AaronDawClase\Prog\2oTrimestre\Ejercicio504\Ejercicio504\obj\Debug\Ejercicio504.csproj.CoreCompileInputs.cache
+D:\AaronDawClase\Prog\2oTrimestre\Ejercicio504\Ejercicio504\obj\Debug\Ejercicio504.exe
+D:\AaronDawClase\Prog\2oTrimestre\Ejercicio504\Ejercicio504\obj\Debug\Ejercicio504.pdb

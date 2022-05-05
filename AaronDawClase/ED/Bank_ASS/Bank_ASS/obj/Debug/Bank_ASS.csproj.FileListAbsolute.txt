@@ -1,0 +1,6 @@
+D:\AaronDawClase\ED\Bank_ASS\Bank_ASS\bin\Debug\Bank_ASS.dll
+D:\AaronDawClase\ED\Bank_ASS\Bank_ASS\bin\Debug\Bank_ASS.pdb
+D:\AaronDawClase\ED\Bank_ASS\Bank_ASS\obj\Debug\Bank_ASS.csproj.AssemblyReference.cache
+D:\AaronDawClase\ED\Bank_ASS\Bank_ASS\obj\Debug\Bank_ASS.csproj.CoreCompileInputs.cache
+D:\AaronDawClase\ED\Bank_ASS\Bank_ASS\obj\Debug\Bank_ASS.dll
+D:\AaronDawClase\ED\Bank_ASS\Bank_ASS\obj\Debug\Bank_ASS.pdb

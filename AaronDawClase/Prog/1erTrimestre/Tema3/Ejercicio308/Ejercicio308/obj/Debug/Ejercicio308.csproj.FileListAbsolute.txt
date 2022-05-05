@@ -1,0 +1,20 @@
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio308\Ejercicio308\bin\Debug\Ejercicio308.exe.config
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio308\Ejercicio308\bin\Debug\Ejercicio308.exe
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio308\Ejercicio308\bin\Debug\Ejercicio308.pdb
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.csprojAssemblyReference.cache
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.Ejercicio308.resources
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.Properties.Resources.resources
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.csproj.GenerateResource.cache
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.csproj.CoreCompileInputs.cache
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.exe
+E:\GS\Programación\Tema 3\Ejercicios\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.pdb
+E:\AaronDawClase\Prog\Tema3\Ejercicio308\Ejercicio308\bin\Debug\Ejercicio308.exe.config
+E:\AaronDawClase\Prog\Tema3\Ejercicio308\Ejercicio308\bin\Debug\Ejercicio308.exe
+E:\AaronDawClase\Prog\Tema3\Ejercicio308\Ejercicio308\bin\Debug\Ejercicio308.pdb
+E:\AaronDawClase\Prog\Tema3\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.csprojAssemblyReference.cache
+E:\AaronDawClase\Prog\Tema3\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.Ejercicio308.resources
+E:\AaronDawClase\Prog\Tema3\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.Properties.Resources.resources
+E:\AaronDawClase\Prog\Tema3\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.csproj.GenerateResource.cache
+E:\AaronDawClase\Prog\Tema3\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.csproj.CoreCompileInputs.cache
+E:\AaronDawClase\Prog\Tema3\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.exe
+E:\AaronDawClase\Prog\Tema3\Ejercicio308\Ejercicio308\obj\Debug\Ejercicio308.pdb

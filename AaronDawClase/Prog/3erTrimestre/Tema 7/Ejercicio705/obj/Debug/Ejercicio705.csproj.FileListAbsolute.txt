@@ -1,0 +1,10 @@
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio705\bin\Debug\Ejercicio705.exe.config
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio705\bin\Debug\Ejercicio705.exe
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio705\bin\Debug\Ejercicio705.pdb
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio705\obj\Debug\Ejercicio705.csproj.AssemblyReference.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio705\obj\Debug\Ejercicio705.Form1.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio705\obj\Debug\Ejercicio705.Properties.Resources.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio705\obj\Debug\Ejercicio705.csproj.GenerateResource.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio705\obj\Debug\Ejercicio705.csproj.CoreCompileInputs.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio705\obj\Debug\Ejercicio705.exe
+D:\AaronDawClase\Prog\3erTrimestre\Tema 7\Ejercicio705\obj\Debug\Ejercicio705.pdb
