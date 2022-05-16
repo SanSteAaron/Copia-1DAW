@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concesionario
+[
+    <!ELEMENT concesionario (coche+)>
+    <!ATTLIST concesionario tema CDATA #REQUIRED>
+    <!ELEMENT coche (marca,modelo,color,matricula,titular+)>
+    <!ATTLIST coche anyo CDATA #REQUIRED>
+    <!ELEMENT marca (#PCDATA)>
+    <!ELEMENT modelo (#PCDATA)>
+    <!ELEMENT color (#PCDATA)>
+    <!ELEMENT matricula (#PCDATA)>
+    <!ELEMENT titular (nombre,dni)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT dni (#PCDATA)>
+]>
+<concesionario tema="xml">
+    <coche anyo="2009">
+        <marca>Renault</marca>
+        <modelo>Clio</modelo>
+        <color>Negro</color>
+        <matricula>2245KJH</matricula>
+        <titular>
+            <nombre>Juan Ortega Martín</nombre>
+            <dni>63728288F</dni>           
+        </titular>
+    </coche>
+    <coche anyo="2007">
+        <marca>Opel</marca>
+        <modelo>Corsa</modelo>
+        <color>Gris</color>
+        <matricula>3467JKO</matricula>
+        <titular>
+            <nombre>Javier Sánchez Leo</nombre>
+            <dni>34873899G</dni>           
+        </titular>
+    </coche>
+    <coche anyo="2012">
+        <marca>Mercedes</marca>
+        <modelo>GLC Coupé</modelo>
+        <color>Negro</color>
+        <matricula>6789KLP</matricula>
+        <titular>
+            <nombre>Pablo Fernández Martín</nombre>
+            <dni>78909612H</dni>           
+        </titular>
+    </coche>
+    <coche anyo="2014">
+        <marca>BMW</marca>
+        <modelo>X6</modelo>
+        <color>Negro</color>
+        <matricula>2677YHJ</matricula>
+        <titular>
+            <nombre>Maria Ferrandiz Rodríguez</nombre>
+            <dni>47484678R</dni>           
+        </titular>
+    </coche>
+    <coche anyo="2011">
+        <marca>BMW</marca>
+        <modelo>M3</modelo>
+        <color>Gris</color>
+        <matricula>5678JAF</matricula>
+        <titular>
+            <nombre>Juan Ortega Martín</nombre>
+            <dni>63728288F</dni>           
+        </titular>
+    </coche>
+    <coche anyo="2009">
+        <marca>Seat</marca>
+        <modelo>Ibiza</modelo>
+        <color>Rojo</color>
+        <matricula>4748GTA</matricula>
+        <titular>
+            <nombre>Manuel Miralles López</nombre>
+            <dni>34953739P</dni>           
+        </titular>
+        <titular>
+            <nombre>Sofia Hernández Pastor</nombre>
+            <dni>12653769B</dni>
+        </titular>
+    </coche>
+</concesionario>
