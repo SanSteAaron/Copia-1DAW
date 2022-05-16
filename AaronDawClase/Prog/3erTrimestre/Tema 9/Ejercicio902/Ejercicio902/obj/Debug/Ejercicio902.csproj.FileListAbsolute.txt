@@ -1,0 +1,10 @@
+D:\AaronDawClase\Prog\3erTrimestre\Tema 9\Ejercicio902\Ejercicio902\bin\Debug\Ejercicio902.exe.config
+D:\AaronDawClase\Prog\3erTrimestre\Tema 9\Ejercicio902\Ejercicio902\bin\Debug\Ejercicio902.exe
+D:\AaronDawClase\Prog\3erTrimestre\Tema 9\Ejercicio902\Ejercicio902\bin\Debug\Ejercicio902.pdb
+D:\AaronDawClase\Prog\3erTrimestre\Tema 9\Ejercicio902\Ejercicio902\obj\Debug\Ejercicio902.csproj.AssemblyReference.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 9\Ejercicio902\Ejercicio902\obj\Debug\Ejercicio902.Form1.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 9\Ejercicio902\Ejercicio902\obj\Debug\Ejercicio902.Properties.Resources.resources
+D:\AaronDawClase\Prog\3erTrimestre\Tema 9\Ejercicio902\Ejercicio902\obj\Debug\Ejercicio902.csproj.GenerateResource.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 9\Ejercicio902\Ejercicio902\obj\Debug\Ejercicio902.csproj.CoreCompileInputs.cache
+D:\AaronDawClase\Prog\3erTrimestre\Tema 9\Ejercicio902\Ejercicio902\obj\Debug\Ejercicio902.exe
+D:\AaronDawClase\Prog\3erTrimestre\Tema 9\Ejercicio902\Ejercicio902\obj\Debug\Ejercicio902.pdb
