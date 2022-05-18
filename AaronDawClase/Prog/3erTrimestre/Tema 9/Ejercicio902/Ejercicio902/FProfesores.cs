@@ -23,17 +23,56 @@ namespace Ejercicio902
         SqlDataAdapter da;
         private int pos;
         private int maxRegistros;
+        bool BotonPulsado = false;
         private void mostrarRegistro(int pos)
         {
-            DataRow dRegistro;
+            if(maxRegistros==0)
+            {
+                BAnterior.Enabled = false;
+                BEliminar.Enabled = false;
+                BSiguiente.Enabled = false;
+                BPrimero.Enabled = false;
+                BÚltimo.Enabled = false;
+                TBDni.Text = "Introduce aquí tu dni";
+                TBNombre.Text = "Introduce aquí tu nombre";
+                TBApellidos.Text = "Introduce aquí tus apellidos";
+                TBTelefono.Text = "Introduce aquí tu teléfono";
+                TBEmail.Text = "Introduce aquí tu email";
 
-            dRegistro = dsProfesores.Tables["Profesores"].Rows[pos];
+            }
+            else
+            {
+                DataRow dRegistro;
 
-            TBDni.Text = dRegistro["DNI"].ToString();
-            TBNombre.Text = dRegistro["Nombre"].ToString();
-            TBApellidos.Text = dRegistro["Apellido"].ToString();
-            TBTelefono.Text = dRegistro["Tlf"].ToString();
-            TBEmail.Text = dRegistro["EMail"].ToString();
+                dRegistro = dsProfesores.Tables["Profesores"].Rows[pos];
+
+                TBDni.Text = dRegistro["DNI"].ToString();
+                TBNombre.Text = dRegistro["Nombre"].ToString();
+                TBApellidos.Text = dRegistro["Apellido"].ToString();
+                TBTelefono.Text = dRegistro["Tlf"].ToString();
+                TBEmail.Text = dRegistro["EMail"].ToString();
+                if(pos==0)
+                {
+                    BAnterior.Enabled = false;
+                    BPrimero.Enabled = false;
+                }
+                else
+                {
+                    BAnterior.Enabled = true;
+                    BPrimero.Enabled = true;
+                }
+                if(pos== maxRegistros -1)
+                {
+                    BÚltimo.Enabled = false;
+                    BSiguiente.Enabled = false;
+                }
+                else
+                {
+                    BÚltimo.Enabled = true;
+                    BSiguiente.Enabled = true;
+                }
+            }
+
         }
 
         private void FGuardarRegistro()
@@ -79,11 +118,10 @@ namespace Ejercicio902
             da.Fill(dsProfesores, "Profesores");
 
             pos = 0;
-            mostrarRegistro(pos);
 
             maxRegistros = dsProfesores.Tables["Profesores"].Rows.Count;
 
-
+            mostrarRegistro(pos);
             con.Close();
         }
 
@@ -97,29 +135,15 @@ namespace Ejercicio902
         private void BAnterior_Click(object sender, EventArgs e)
         {
             FGuardarRegistro();
-            if (pos == 0)
-            {
-                MessageBox.Show("Ya se encuentra en la primera posición.");
-            }
-            else
-            {
-                pos--;
-                mostrarRegistro(pos);
-            }         
+            pos--;
+            mostrarRegistro(pos);       
         }
 
         private void BSiguiente_Click(object sender, EventArgs e)
         {
             FGuardarRegistro();
-            if (pos == maxRegistros -1)
-            {
-                MessageBox.Show("Ya se encuentra en la última posición.");
-            }
-            else
-            {
-                pos++;
-                mostrarRegistro(pos);
-            }
+            pos++;
+            mostrarRegistro(pos);
         }
 
         private void BÚltimo_Click(object sender, EventArgs e)
@@ -136,6 +160,8 @@ namespace Ejercicio902
             TBApellidos.Clear();
             TBTelefono.Clear();
             TBEmail.Clear();
+            BotonPulsado = true;
+            BAñadir.Enabled = false;
         }
 
         private void BGuardar_Click(object sender, EventArgs e)
@@ -156,6 +182,8 @@ namespace Ejercicio902
             
             maxRegistros++;
             pos = maxRegistros - 1;
+            BotonPulsado = false;
+            BAñadir.Enabled = true;
         }
 
         private void BActualizar_Click(object sender, EventArgs e)
@@ -193,6 +221,16 @@ namespace Ejercicio902
             {
                 MessageBox.Show("No se ha eliminado el registro.");
             }
+        }
+
+        private void TBDni_TextChanged(object sender, EventArgs e)
+        {
+            if (TBDni.Text == "" || TBNombre.Text == "" || TBApellidos.Text == "" || TBTelefono.Text == "" || TBEmail.Text == "" || !BotonPulsado)
+            {
+                BGuardar.Enabled = false;
+            }
+            else
+                BGuardar.Enabled = true;
         }
     }
 }

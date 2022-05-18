@@ -59,6 +59,7 @@ namespace Ejercicio902
             this.TBDni.Name = "TBDni";
             this.TBDni.Size = new System.Drawing.Size(141, 20);
             this.TBDni.TabIndex = 0;
+            this.TBDni.TextChanged += new System.EventHandler(this.TBDni_TextChanged);
             // 
             // TBNombre
             // 
@@ -66,6 +67,7 @@ namespace Ejercicio902
             this.TBNombre.Name = "TBNombre";
             this.TBNombre.Size = new System.Drawing.Size(141, 20);
             this.TBNombre.TabIndex = 1;
+            this.TBNombre.TextChanged += new System.EventHandler(this.TBDni_TextChanged);
             // 
             // TBTelefono
             // 
@@ -73,6 +75,7 @@ namespace Ejercicio902
             this.TBTelefono.Name = "TBTelefono";
             this.TBTelefono.Size = new System.Drawing.Size(141, 20);
             this.TBTelefono.TabIndex = 2;
+            this.TBTelefono.TextChanged += new System.EventHandler(this.TBDni_TextChanged);
             // 
             // TBApellidos
             // 
@@ -80,6 +83,7 @@ namespace Ejercicio902
             this.TBApellidos.Name = "TBApellidos";
             this.TBApellidos.Size = new System.Drawing.Size(141, 20);
             this.TBApellidos.TabIndex = 3;
+            this.TBApellidos.TextChanged += new System.EventHandler(this.TBDni_TextChanged);
             // 
             // TBEmail
             // 
@@ -87,6 +91,7 @@ namespace Ejercicio902
             this.TBEmail.Name = "TBEmail";
             this.TBEmail.Size = new System.Drawing.Size(141, 20);
             this.TBEmail.TabIndex = 4;
+            this.TBEmail.TextChanged += new System.EventHandler(this.TBDni_TextChanged);
             // 
             // label1
             // 

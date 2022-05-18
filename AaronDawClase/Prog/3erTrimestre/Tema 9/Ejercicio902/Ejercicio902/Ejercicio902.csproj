@@ -46,16 +46,43 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAlumnos.Designer.cs">
+      <DependentUpon>FAlumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FCursos.Designer.cs">
+      <DependentUpon>FCursos.cs</DependentUpon>
+    </Compile>
     <Compile Include="FProfesores.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FProfesores.Designer.cs">
       <DependentUpon>FProfesores.cs</DependentUpon>
     </Compile>
+    <Compile Include="FÍndice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FÍndice.Designer.cs">
+      <DependentUpon>FÍndice.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FAlumnos.resx">
+      <DependentUpon>FAlumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FCursos.resx">
+      <DependentUpon>FCursos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FProfesores.resx">
       <DependentUpon>FProfesores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FÍndice.resx">
+      <DependentUpon>FÍndice.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
